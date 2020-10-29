@@ -1,1 +1,1 @@
-# javascriptapp
+# Test javascript project
