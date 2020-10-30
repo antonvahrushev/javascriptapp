@@ -1,0 +1,26 @@
+// loginDialog
+export const SET_LOGIN_STATE ="SET_LOGIN_STATE"
+export const TOGGLE_SHOW_PASSWORD = "TOGGLE_SHOW_PASSWORD";
+
+// appUI
+export const OPEN_DRAWER = "OPEN_DRAWER";
+export const CLOSE_DRAWER = "CLOSE_DRAWER";
+export const OPEN_MENU = "OPEN_MENU";
+export const CLOSE_MENU = "CLOSE_MENU";
+export const SHOW_PROGRESS = "SHOW_PROGRESS";
+export const HIDE_PROGRESS = "HIDE_PROGRESS";
+
+//Notifier
+export const ENQUEUE_NOTIFICATION = 'ENQUEUE_NOTIFICATION';
+export const CLOSE_NOTIFICATION = 'CLOSE_NOTIFICATION';
+export const REMOVE_NOTIFICATION = 'REMOVE_NOTIFICATION';
+
+// Advert
+export const SET_ADVERT_STATE = 'SET_ADVERT_STATE';
+export const SET_INPUT_FIELD = 'SET_INPUT_FIELD';
+
+// Payment
+export const SET_PAYMENT_STATE = 'SET_PAYMENT_STATE';
+
+//Admin
+export const SET_ADMIN_STATE = 'SET_ADMIN_STATE';
